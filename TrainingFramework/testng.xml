@@ -3,12 +3,12 @@
 <suite name="Suite">
   <test name="LoginTest">
     <classes>
-      <class name="testcases.LoginTest"/>
+      <class name="testcases.VerifyMercuryLogin"/>
     </classes>
   </test> <!-- Test -->
   <test name="Logout">
     <classes>
-      <class name="testcases.Logout"/>
+      <class name="testcases.VerifyMercuryLogout"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
